@@ -11,3 +11,6 @@ header {
 }
 
 /* Presentation */
+.container.custom-background {
+    background-color: rgb(26, 188, 156);
+}
