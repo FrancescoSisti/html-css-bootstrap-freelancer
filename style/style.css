@@ -6,9 +6,6 @@
 }
 
 /* Generals */
-header {
-    height: 100px;
-}
 
 /* Presentation */
 .container-fluid.custom-background {
@@ -19,4 +16,13 @@ img {
     width: 100%;
     display: block;
     height: 350px;
+}
+
+.line-w {
+    width: 250px;
+}
+
+.line-h {
+    height: 5px;
+    border-radius: 25px;
 }
