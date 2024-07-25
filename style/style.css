@@ -26,3 +26,13 @@ img {
     height: 5px;
     border-radius: 25px;
 }
+
+.star-break {
+    font-size: 25px;
+}
+
+.line-break {
+    border-bottom: 3px solid;
+    width: 60px;
+    margin: 0 10px;
+}
