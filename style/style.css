@@ -11,6 +11,12 @@ header {
 }
 
 /* Presentation */
-.container.custom-background {
+.container-fluid.custom-background {
     background-color: rgb(26, 188, 156);
+}
+
+img {
+    width: 100%;
+    display: block;
+    height: 350px;
 }
